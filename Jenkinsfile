@@ -395,7 +395,7 @@ pipeline {
       }
     }
     triggers {
-        pollSCM( * * * * *)
+        pollSCM(@daily)
     }
     stages {
         stage('Setup') {
