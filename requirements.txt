@@ -1,0 +1,77 @@
+# DO NOT MODIFY THIS FILE. See `pin_requirements.sh` instead
+apache.aurora.thrift==0.20.0.post75  # via apache.thermos.common
+apache.thermos.common==0.20.0.post75  # via apache.thermos.config
+apache.thermos.config==0.20.0.post75
+apache.thermos.thrift==0.20.0.post75  # via apache.thermos.common
+asn1crypto==0.24.0        # via cryptography
+bleach==3.1.0             # via django-bleach
+cee-syslog-handler==0.5.0
+certifi==2019.6.16        # via requests
+cffi==1.12.3              # via cryptography
+chardet==3.0.4            # via requests
+check-manifest==0.37      # via devpi-client
+configparser==3.7.3       # via importlib-metadata
+contextlib2==0.5.5        # via importlib-metadata, raven
+croniter==0.3.27
+cryptography==2.7         # via django-cryptography, pyopenssl, requests
+devpi-client==4.3.0       # via devpi-plumber
+devpi-common==3.3.1       # via devpi-client
+devpi-plumber==0.5.0
+django-appconf==1.0.3     # via django-cryptography
+django-auth-ldap==1.2.17
+django-bleach==0.5.2
+django-cryptography==0.3
+django-csp==3.5
+django-model-utils==3.1.2
+django-waffle==0.12.0
+django==1.11.22           # via django-appconf, django-auth-ldap, django-bleach, django-csp, django-model-utils, jsonfield
+djangorestframework==3.9.2
+enum34==1.1.6             # via cryptography
+filelock==3.0.10          # via tox
+flightcontrol==5.1.0
+futures==2.2.0            # via twitter.common.concurrent
+idna==2.8                 # via requests
+importlib-metadata==0.18  # via pluggy
+ipaddress==1.0.22         # via cryptography
+jsonfield==2.0.2
+pathlib2==2.3.3           # via importlib-metadata
+pkginfo==1.5.0.1          # via devpi-client
+pluggy==0.12.0            # via devpi-client, tox
+prometheus-client==0.6.0
+psycopg2==2.7.7
+py==1.8.0                 # via devpi-client, devpi-common, tox
+pyaml==18.11.0
+pyasn1-modules==0.2.5     # via python-ldap
+pyasn1==0.4.5             # via pyasn1-modules, python-ldap
+pycparser==2.19           # via cffi
+pycrypto==2.6.1
+pygelf==0.3.5
+pyopenssl==19.0.0         # via requests
+pystachio==0.8.5          # via apache.thermos.common, apache.thermos.config
+python-dateutil==2.8.0    # via croniter
+python-ldap==3.2.0        # via django-auth-ldap
+pytz==2019.1              # via django
+pyyaml==5.1.1             # via pyaml
+raven==6.10.0
+requests[security]==2.22.0  # via devpi-common
+scandir==1.9.0            # via pathlib2
+six==1.12.0               # via bleach, cryptography, devpi-plumber, django-appconf, pathlib2, pyopenssl, python-dateutil, thrift, tox
+thrift==0.10.0            # via apache.aurora.thrift, apache.thermos.thrift, twitter.common.recordio
+toml==0.10.0              # via tox
+tox==3.7.0                # via devpi-client
+twitter.common.concurrent==0.3.9.post13
+twitter.common.contextutil==0.3.9  # via devpi-plumber
+twitter.common.decorators==0.3.9  # via twitter.common.exceptions
+twitter.common.dirutil==0.3.9  # via twitter.common.contextutil, twitter.common.log
+twitter.common.exceptions==0.3.9  # via twitter.common.concurrent
+twitter.common.lang==0.3.9  # via apache.thermos.config, twitter.common.concurrent, twitter.common.dirutil, twitter.common.exceptions, twitter.common.quantity, twitter.common.recordio
+twitter.common.log==0.3.9  # via apache.thermos.common, twitter.common.recordio
+twitter.common.options==0.3.9  # via twitter.common.log
+twitter.common.quantity==0.3.9  # via twitter.common.concurrent
+twitter.common.recordio==0.3.9  # via apache.thermos.common
+urllib3==1.25.3           # via requests
+virtualenv==16.4.3        # via tox
+webencodings==0.5.1       # via bleach
+zipp==0.5.1               # via importlib-metadata
+# The following packages are considered to be unsafe in a requirements file:
+setuptools==41.0.1        # via tox
