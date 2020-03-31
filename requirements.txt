@@ -4,7 +4,7 @@ apache.thermos.common==0.20.0.post75  # via apache.thermos.config
 apache.thermos.config==0.20.0.post75
 apache.thermos.thrift==0.20.0.post75  # via apache.thermos.common
 asn1crypto==0.24.0        # via cryptography
-bleach==3.1.0             # via django-bleach
+bleach==3.1.4             # via django-bleach
 cee-syslog-handler==0.5.0
 certifi==2019.6.16        # via requests
 cffi==1.12.3              # via cryptography
