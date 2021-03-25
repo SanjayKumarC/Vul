@@ -51,7 +51,7 @@ pystachio==0.8.5          # via apache.thermos.common, apache.thermos.config
 python-dateutil==2.8.0    # via croniter
 python-ldap==3.2.0        # via django-auth-ldap
 pytz==2019.1              # via django
-pyyaml==5.1.1             # via pyaml
+pyyaml==5.4             # via pyaml
 raven==6.10.0
 requests[security]==2.22.0  # via devpi-common
 scandir==1.9.0            # via pathlib2
