@@ -39,7 +39,7 @@ pkginfo==1.5.0.1          # via devpi-client
 pluggy==0.12.0            # via devpi-client, tox
 prometheus-client==0.6.0
 psycopg2==2.7.7
-py==1.8.0                 # via devpi-client, devpi-common, tox
+py==1.10.0                 # via devpi-client, devpi-common, tox
 pyaml==18.11.0
 pyasn1-modules==0.2.5     # via python-ldap
 pyasn1==0.4.5             # via pyasn1-modules, python-ldap
