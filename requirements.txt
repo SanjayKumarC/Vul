@@ -24,7 +24,7 @@ django-cryptography==0.3
 django-csp==3.5
 django-model-utils==3.1.2
 django-waffle==0.12.0
-django==1.11.22           # via django-appconf, django-auth-ldap, django-bleach, django-csp, django-model-utils, jsonfield
+django==2.2.24           # via django-appconf, django-auth-ldap, django-bleach, django-csp, django-model-utils, jsonfield
 djangorestframework==3.9.2
 enum34==1.1.6             # via cryptography
 filelock==3.0.10          # via tox
