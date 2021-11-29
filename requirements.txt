@@ -49,7 +49,7 @@ pygelf==0.3.5
 pyopenssl==19.0.0         # via requests
 pystachio==0.8.5          # via apache.thermos.common, apache.thermos.config
 python-dateutil==2.8.0    # via croniter
-python-ldap==3.2.0        # via django-auth-ldap
+python-ldap==3.4.0        # via django-auth-ldap
 pytz==2019.1              # via django
 pyyaml==5.1.1             # via pyaml
 raven==6.10.0
