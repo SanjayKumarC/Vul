@@ -518,7 +518,7 @@ certifi==2018.4.16  # ISC - Python package for providing Mozilla's CA Bundle
 certifi==2018.8.24  # ISC - Python package for providing Mozilla's CA Bundle
 certifi==2018.10.15  # ISC - Python package for providing Mozilla's CA Bundle
 certifi==2018.11.29  # ISC - Python package for providing Mozilla's CA Bundle
-certifi==2019.3.9  # ISC - Python package for providing Mozilla's CA Bundle
+certifi==2022.12.7  # ISC - Python package for providing Mozilla's CA Bundle
 certifi==2019.6.16 # ISC - Python package for providing Mozilla's CA Bundle
 cffi==1.5.0  # MIT - Foreign Function Interface for Python calling C code.
 cffi==1.5.2  # MIT - Foreign Function Interface for Python calling C code.
