@@ -2236,7 +2236,7 @@ setuptools==40.4.3  # MIT - Easily download, build, install, upgrade, and uninst
 setuptools==40.6.3  # MIT - Easily download, build, install, upgrade, and uninstall Python packages
 setuptools==40.7.3  # MIT - Easily download, build, install, upgrade, and uninstall Python packages
 setuptools==40.8.0  # MIT - Easily download, build, install, upgrade, and uninstall Python packages
-setuptools==41.0.1  # MIT - Easily download, build, install, upgrade, and uninstall Python packages
+setuptools==65.5.1  # MIT - Easily download, build, install, upgrade, and uninstall Python packages
 setuptools_scm==1.5.5  # MIT - the blessed package to manage your versions by scm tags
 setuptools_scm==1.6.0  # MIT - the blessed package to manage your versions by scm tags
 setuptools_scm==1.7.0  # MIT - the blessed package to manage your versions by scm tags
