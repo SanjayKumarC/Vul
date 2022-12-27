@@ -74,4 +74,4 @@ virtualenv==16.4.3        # via tox
 webencodings==0.5.1       # via bleach
 zipp==0.5.1               # via importlib-metadata
 # The following packages are considered to be unsafe in a requirements file:
-setuptools==41.0.1        # via tox
+setuptools==65.5.1        # via tox
